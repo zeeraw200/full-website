@@ -508,9 +508,9 @@ p {
     width: 100%;
   }
 
-  /* .searches{
-    width: 450px;
-  } */
+  #access{
+    height: 70vh;
+  }
   .searches p {
     width: 320px;
     text-align: center;
