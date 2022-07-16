@@ -323,6 +323,7 @@ p {
     display: flex;
     flex-direction: column;
     height: 70vh;
+    max-height: 450px;
     width: 100%;
   }
 
@@ -476,6 +477,7 @@ p {
 @media screen and (max-width:450px) {
   .history {
     height: 50vh;
+    max-height: 450px;
   }
 
   .btn {
@@ -502,6 +504,7 @@ p {
 
   #access{
     height: 70vh;
+    max-height: 450px;
   }
   .searches p {
     width: 320px;
@@ -514,6 +517,7 @@ p {
   .clipboard {
     width: 90%;
     height: 50vh;
+    max-height: 450px;
     margin: auto;
     text-align: center;
   }
